@@ -1,0 +1,80 @@
+[
+  {
+    "id": "19bdf901-1fd5-4393-9bb1-fab635842d90",
+    "data": [
+      {
+        "text": "काफ़ी दिनों से बात नहीं हुई",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "7f508ae4-cfa9-47f0-95fc-4ae95802f267",
+    "data": [
+      {
+        "text": "नमस्कार",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "8f66e6d7-6bd7-4e93-b297-ad3b64026648",
+    "data": [
+      {
+        "text": "नमस्ते",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "6afc2c40-f5e4-4f5b-b018-9ed350977aef",
+    "data": [
+      {
+        "text": "क्या हाल है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "333af777-cf50-4989-ac25-d41736ee94f9",
+    "data": [
+      {
+        "text": "सुनो, क्या हाल है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "5b26a70b-4b7d-45e8-bb6f-54124c3b6ec6",
+    "data": [
+      {
+        "text": "मेरी तरफ़ से नमस्ते",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

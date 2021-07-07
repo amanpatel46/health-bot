@@ -1,0 +1,56 @@
+[
+  {
+    "id": "0838f19c-3101-4afa-b767-a7668d9829b1",
+    "data": [
+      {
+        "text": "covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b880ddd-7b3d-4881-86e5-7ebaba18210e",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7813d03-1d9f-420b-a531-447dd084e0aa",
+    "data": [
+      {
+        "text": "covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffedbf13-85dd-4981-a365-b6e8917c0ca7",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

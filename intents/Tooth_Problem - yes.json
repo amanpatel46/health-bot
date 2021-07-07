@@ -1,0 +1,54 @@
+{
+  "id": "cef0716e-ad0b-44e5-ad40-400d9897ecd2",
+  "parentId": "96d1a207-5f03-4989-bca0-dabee0cc5674",
+  "rootParentId": "96d1a207-5f03-4989-bca0-dabee0cc5674",
+  "name": "Tooth_Problem - yes",
+  "auto": true,
+  "contexts": [
+    "await_choice",
+    "Tooth_Problem-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tooth_Problem.Tooth_Problem-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "can I book an appointment to see a dentist"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "tr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

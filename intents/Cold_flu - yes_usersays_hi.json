@@ -1,0 +1,132 @@
+[
+  {
+    "id": "f7a34017-fa87-423c-a098-ff3758ef7761",
+    "data": [
+      {
+        "text": "हाँ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "81b0847d-06ec-4e17-9662-0d838e8093ad",
+    "data": [
+      {
+        "text": "अभी करो",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "4f833caf-8943-4cd7-bbc1-9247499d6f77",
+    "data": [
+      {
+        "text": "बेशक",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "5937695a-9d0f-4a5d-9f5e-7c1063da7f43",
+    "data": [
+      {
+        "text": "बिलकुल",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "34e47171-4b28-43ce-98be-8bd2835e22b5",
+    "data": [
+      {
+        "text": "पक्का ना",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "af68f1a1-d211-4c29-9a4d-a0878ca3509e",
+    "data": [
+      {
+        "text": "ज़रूर",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "4e392aae-b3a3-4bcd-b85d-74be481676d5",
+    "data": [
+      {
+        "text": "अच्छा लग रहा है",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "ffd13240-2759-4d2b-9607-1f49a430a088",
+    "data": [
+      {
+        "text": "यह सही है!",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "409de070-2141-4999-9be5-d1e3ada0c621",
+    "data": [
+      {
+        "text": "मुझे फ़र्क नहीं पड़ता",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "20616d6d-5525-4e63-a280-79a2fa1993c2",
+    "data": [
+      {
+        "text": "मैं सहमत हूँ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

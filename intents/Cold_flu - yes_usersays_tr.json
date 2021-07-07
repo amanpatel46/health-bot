@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3efe2016-b37d-40e8-98c7-89cf95e0a9b6",
+    "data": [
+      {
+        "text": "evet",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "cfe0f5fa-50cd-4c89-8fc8-5efe98281a31",
+    "data": [
+      {
+        "text": "yap",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "3dccca26-d376-4298-9f24-d890b5a483ee",
+    "data": [
+      {
+        "text": "elbette",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "f1c6fad0-9329-44cb-bd05-1e48656894c3",
+    "data": [
+      {
+        "text": "aynen",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "d5092783-124d-4790-89d0-a49f9d991373",
+    "data": [
+      {
+        "text": "onaylıyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "881d4016-8129-4f0b-9a22-0be4a1a6cd69",
+    "data": [
+      {
+        "text": "tabii ki",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "d46a485e-82ef-4f46-aafd-02c6ae0e337a",
+    "data": [
+      {
+        "text": "uygun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "1fdefbb4-01b3-400b-aad5-d5b288089d52",
+    "data": [
+      {
+        "text": "doğru",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "6260f975-c367-4875-92e9-4e0237ae1e16",
+    "data": [
+      {
+        "text": "mahsuru yok",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "b25fa035-4744-4e27-829f-84716a232bc8",
+    "data": [
+      {
+        "text": "katılıyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  }
+]

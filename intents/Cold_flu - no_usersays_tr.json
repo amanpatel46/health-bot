@@ -1,0 +1,119 @@
+[
+  {
+    "id": "802f0eb5-9b5b-45f9-95ad-ecd96b1beb22",
+    "data": [
+      {
+        "text": "hayır",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "8d40115e-44eb-476d-a193-e1c3a80ffea2",
+    "data": [
+      {
+        "text": "yapma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "7ee9c74e-9bec-45dd-944a-ee0b2409da0c",
+    "data": [
+      {
+        "text": "kesinlikle değil",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "526d7cd0-9311-49bb-aca5-afaeb198f726",
+    "data": [
+      {
+        "text": "pek değil",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "e20cb16b-41e3-482e-9450-60b7272a66aa",
+    "data": [
+      {
+        "text": "teşekkürler ama hayır",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "d5267362-0648-40f9-9961-6a7da9addaca",
+    "data": [
+      {
+        "text": "ilgilenmiyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "c8555cb8-fe55-4071-9e8b-7e65ffc4d9f5",
+    "data": [
+      {
+        "text": "sanmıyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "3c0607cf-639b-4da9-a502-f0ad47fb3233",
+    "data": [
+      {
+        "text": "katılmıyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  },
+  {
+    "id": "158a768f-041b-46dc-a79a-3ae86cdb6372",
+    "data": [
+      {
+        "text": "istemiyorum",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "tr",
+    "updated": 0
+  }
+]

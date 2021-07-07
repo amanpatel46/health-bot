@@ -1,0 +1,77 @@
+[
+  {
+    "id": "9fb0374b-4066-4b61-aa8e-e13e7747a93a",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@rating",
+        "alias": "rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "511411d8-9579-41f6-a871-e8807e13db98",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@rating",
+        "alias": "rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8393b58d-d800-4cd2-a3d9-22e2e8d13088",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@rating",
+        "alias": "rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51852260-05de-4b38-bbe8-270c924557af",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@rating",
+        "alias": "rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21536838-2520-4790-84e2-26a1c68bef28",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@rating",
+        "alias": "rating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

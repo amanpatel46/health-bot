@@ -1,0 +1,53 @@
+{
+  "id": "fb852fdb-08df-4381-b3bd-d11222286c0d",
+  "parentId": "47654c1a-f470-4738-a310-6871435d2eac",
+  "rootParentId": "47654c1a-f470-4738-a310-6871435d2eac",
+  "name": "Cold/flu - no",
+  "auto": true,
+  "contexts": [
+    "Coldflu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coldflu.Coldflu-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Happy to hear that maintain social distancing to stay safe"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "tr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

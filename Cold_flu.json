@@ -1,0 +1,118 @@
+{
+  "id": "47654c1a-f470-4738-a310-6871435d2eac",
+  "name": "Cold/flu",
+  "auto": true,
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "conditionalResponses": [],
+  "context": [
+    "await_choice"
+  ],
+  "contexts": [
+    "await_choice"
+  ],
+  "endInteraction": false,
+  "events": [],
+  "fallbackIntent": false,
+  "liveAgentHandoff": false,
+  "parentId": null,
+  "followUpIntents": [],
+  "priority": 500000,
+  "responses": [
+    {
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Coldflu-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "await_choice",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "noInputPromptMessages": [],
+          "noMatchPromptMessages": [],
+          "promptMessages": [],
+          "defaultValue": "",
+          "name": "number",
+          "dataType": "@sys.number",
+          "isList": false,
+          "required": false,
+          "prompts": [],
+          "value": "$number",
+          "outputDialogContexts": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "messages": [
+        {
+          "type": "message",
+          "condition": "",
+          "speech": [
+            "Do you have the following  symptoms;\nfever,dry cough,tiredness"
+          ]
+        }
+      ],
+      "resetContexts": false
+    }
+  ],
+  "rootParentId": null,
+  "templates": [],
+  "userSays": [
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "1",
+          "userDefined": false,
+          "alias": "number",
+          "meta": "@sys.number"
+        }
+      ],
+      "count": 0,
+      "id": "eccecaf9-4e05-4a92-b887-c832aeb6c48f",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "cold/flu",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "51ee59fd-dd3a-4e34-8335-b41f2bf4437b",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "flu",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "4754af2f-5d0a-47f1-8f59-36b2505efb07",
+      "updated": null
+    },
+    {
+      "isTemplate": false,
+      "data": [
+        {
+          "text": "cold",
+          "userDefined": false
+        }
+      ],
+      "count": 0,
+      "id": "114cccd1-4d20-4ba5-bb2f-579065774dce",
+      "updated": null
+    }
+  ],
+  "webhookForSlotFilling": false,
+  "webhookUsed": false
+}

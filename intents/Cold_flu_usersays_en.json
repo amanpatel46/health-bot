@@ -1,0 +1,56 @@
+[
+  {
+    "id": "eccecaf9-4e05-4a92-b887-c832aeb6c48f",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51ee59fd-dd3a-4e34-8335-b41f2bf4437b",
+    "data": [
+      {
+        "text": "cold/flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4754af2f-5d0a-47f1-8f59-36b2505efb07",
+    "data": [
+      {
+        "text": "flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "114cccd1-4d20-4ba5-bb2f-579065774dce",
+    "data": [
+      {
+        "text": "cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
